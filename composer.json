@@ -1,19 +1,19 @@
 {
   "name": "texxasrulez/force_elastic",
-  "description": "Roundcube plugin that forces the Elastic skin on mobile devices at runtime (without changing user prefs).",
+  "description": "Roundcube webmail plugin that forces the Elastic skin on phones and tablets at runtime (no user preference changes).",
   "type": "roundcube-plugin",
-  "license": "GPL-3.0",
+  "license": "proprietary",
   "version": "1.0",
   "homepage": "https://github.com/texxasrulez/force_elastic",
   "support": {
     "source": "https://github.com/texxasrulez/force_elastic",
-    "issues": "https://github.com/texxasrulez/force_elastic/issues"
+    "issues": "https://github.com/texxasrulez/force_elastic/issues",
+    "docs": "https://github.com/texxasrulez/force_elastic#readme"
   },
   "authors": [
     {
-      "name": "Gene Hawkins",
-      "email": "texxasrulez@yahoo.com",
-      "role": "lead"
+      "name": "texxasrulez",
+      "email": "texxasrulez@yahoo.com"
     }
   ],
   "require": {
@@ -31,11 +31,26 @@
     "skin",
     "elastic",
     "mobile",
-    "responsive"
+    "responsive",
+    "webmail",
+    "roundcube-plugin",
+    "mobile-detection",
+    "ux",
+    "ui"
   ],
   "autoload": {
     "classmap": [
       "."
     ]
+  },
+  "require-dev": {
+    "phpstan/phpstan": "^1.11",
+    "ergebnis/composer-normalize": "^2.40"
+  },
+  "scripts": {
+    "lint": "find . -type f -name '*.php' -print0 | xargs -0 -n1 -P4 php -l",
+    "analyze": "phpstan analyse --no-progress --memory-limit=512M",
+    "cs:fix": "composer normalize",
+    "cs:check": "composer normalize --dry-run"
   }
 }
