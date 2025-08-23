@@ -99,9 +99,3 @@ No configuration is required for default behavior.
 - **Conflicts with other skin/branding plugins:** Ensure `force_elastic` is loaded after any plugin that explicitly sets a skin for all requests.
 - **Caching:** Clear browser cache and Roundcube caches after first install.
 
----
-
-## Versioning & License
-
-- Versioning follows Git tags in the repository.
-- License is defined by the repository owner. The Composer metadata currently marks this as `proprietary`. Update to your preferred license if desired.
