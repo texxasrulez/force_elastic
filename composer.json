@@ -42,15 +42,5 @@
     "classmap": [
       "."
     ]
-  },
-  "require-dev": {
-    "phpstan/phpstan": "^1.11",
-    "ergebnis/composer-normalize": "^2.40"
-  },
-  "scripts": {
-    "lint": "find . -type f -name '*.php' -print0 | xargs -0 -n1 -P4 php -l",
-    "analyze": "phpstan analyse --no-progress --memory-limit=512M",
-    "cs:fix": "composer normalize",
-    "cs:check": "composer normalize --dry-run"
   }
 }
