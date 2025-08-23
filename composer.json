@@ -1,0 +1,42 @@
+{
+  "name": "texxasrulez/force_elastic",
+  "description": "Roundcube plugin that forces the Elastic skin on mobile devices at runtime (without changing user prefs).",
+  "type": "roundcube-plugin",
+  "license": "GPL-3.0",
+  'version': "1.0",
+  "homepage": "https://github.com/texxasrulez/force_elastic",
+  "support": {
+    "source": "https://github.com/texxasrulez/force_elastic",
+    "issues": "https://github.com/texxasrulez/force_elastic/issues"
+  },
+  "authors": [
+    {
+      "name": "Gene Hawkins",
+      "email": "texxasrulez@yahoo.com",
+      "homepage": "https://genesworld.net",
+      "role": "lead"
+    }
+  ],
+  "require": {
+    "php": ">=7.3",
+    "roundcube/plugin-installer": "^0.3.0"
+  },
+  "extra": {
+    "roundcube": {
+      "min-version": "1.4"
+    }
+  },
+  "keywords": [
+    "roundcube",
+    "plugin",
+    "skin",
+    "elastic",
+    "mobile",
+    "responsive"
+  ],
+  "autoload": {
+    "classmap": [
+      "."
+    ]
+  }
+}

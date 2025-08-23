@@ -1,0 +1,12 @@
+<?php
+/**
+ * force_elastic plugin configuration
+ * You can copy this file to config.inc.php to override defaults.
+ */
+
+// Skin to force on mobile devices (keep 'elastic' unless you know what you're doing)
+$config['force_elastic.skin'] = 'elastic';
+
+// Optionally disable the fallback User-Agent sniff and rely solely on Roundcube's browser detector
+$config['force_elastic.use_ua_sniff'] = true;
+?>
