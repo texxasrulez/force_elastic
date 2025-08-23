@@ -3,7 +3,7 @@
   "description": "Roundcube plugin that forces the Elastic skin on mobile devices at runtime (without changing user prefs).",
   "type": "roundcube-plugin",
   "license": "GPL-3.0",
-  'version': "1.0",
+  "version": "1.0",
   "homepage": "https://github.com/texxasrulez/force_elastic",
   "support": {
     "source": "https://github.com/texxasrulez/force_elastic",
