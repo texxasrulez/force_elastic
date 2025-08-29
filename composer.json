@@ -2,7 +2,7 @@
   "name": "texxasrulez/force_elastic",
   "description": "Roundcube webmail plugin that forces the Elastic skin on phones and tablets at runtime (no user preference changes).",
   "type": "roundcube-plugin",
-  "license": "proprietary",
+  "license": "GPL-3.0",
   "version": "1.0",
   "homepage": "https://github.com/texxasrulez/force_elastic",
   "support": {
