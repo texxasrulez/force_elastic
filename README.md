@@ -5,7 +5,7 @@
 [![Packagist Version](https://img.shields.io/packagist/v/texxasrulez/force_elastic?style=plastic&logo=packagist&logoColor=white)](https://packagist.org/packages/texxasrulez/force_elastic)
 [![Project license](https://img.shields.io/github/license/texxasrulez/force_elastic?style=plastic)](https://github.com/texxasrulez/force_elastic/LICENSE)
 [![GitHub stars](https://img.shields.io/github/stars/texxasrulez/force_elastic?style=plastic&logo=github)](https://github.com/texxasrulez/force_elastic/stargazers)
-[![issues](https://img.shields.io/github/issues/texxasrulez/force_elastic)](https://github.com/texxasrulez/force_elastic/issues)
+[![issues](https://img.shields.io/github/issues/texxasrulez/force_elastic?style=plastic)](https://github.com/texxasrulez/force_elastic/issues)
 [![Donate to this project using Paypal](https://img.shields.io/badge/paypal-donate-blue.svg?style=plastic&logo=paypal)](https://www.paypal.me/texxasrulez)
 
 
