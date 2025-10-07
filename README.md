@@ -6,7 +6,7 @@
 [![Project license](https://img.shields.io/github/license/texxasrulez/force_elastic?style=plastic)](https://github.com/texxasrulez/force_elastic/LICENSE)
 [![GitHub stars](https://img.shields.io/github/stars/texxasrulez/force_elastic?style=plastic&logo=github)](https://github.com/texxasrulez/force_elastic/stargazers)
 [![issues](https://img.shields.io/github/issues/texxasrulez/force_elastic?style=plastic)](https://github.com/texxasrulez/force_elastic/issues)
-[![Donate to this project using Paypal](https://img.shields.io/badge/paypal-donate-blue.svg?style=plastic&logo=paypal)](https://www.paypal.me/texxasrulez)
+[![Donate to this project using Paypal](https://img.shields.io/badge/paypal-money_please-blue.svg?style=plastic&logo=paypal)](https://www.paypal.me/texxasrulez)
 
 
 Forces the **Elastic** skin for requests coming from mobile devices — without changing the user's saved skin preference or your system default. This keeps small screens functional even when users have selected legacy/non-responsive skins.
