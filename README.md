@@ -1,12 +1,12 @@
 # force_elastic — Roundcube plugin
 -------------------------------
 
-[![Packagist](https://img.shields.io/packagist/dt/texxasrulez/force_elastic?style=flat-square)](https://packagist.org/packages/texxasrulez/force_elastic)
-[![Packagist Version](https://img.shields.io/packagist/v/texxasrulez/force_elastic?style=flat-square)](https://packagist.org/packages/texxasrulez/force_elastic)
-[![Project license](https://img.shields.io/github/license/texxasrulez/force_elastic?style=flat-square)](https://github.com/texxasrulez/force_elastic/LICENSE)
-[![GitHub stars](https://img.shields.io/github/stars/texxasrulez/force_elastic?style=flat-square&logo=github)](https://github.com/texxasrulez/force_elastic/stargazers)
+[![Packagist](https://img.shields.io/packagist/dt/texxasrulez/force_elastic?style=plastic)](https://packagist.org/packages/texxasrulez/force_elastic)
+[![Packagist Version](https://img.shields.io/packagist/v/texxasrulez/force_elastic?style=plastic&logo=packagist&logoColor=white)](https://packagist.org/packages/texxasrulez/force_elastic)
+[![Project license](https://img.shields.io/github/license/texxasrulez/force_elastic?style=plastic)](https://github.com/texxasrulez/force_elastic/LICENSE)
+[![GitHub stars](https://img.shields.io/github/stars/texxasrulez/force_elastic?style=plastic&logo=github)](https://github.com/texxasrulez/force_elastic/stargazers)
 [![issues](https://img.shields.io/github/issues/texxasrulez/force_elastic)](https://github.com/texxasrulez/force_elastic/issues)
-[![Donate to this project using Paypal](https://img.shields.io/badge/paypal-donate-blue.svg?style=flat-square&logo=paypal)](https://www.paypal.me/texxasrulez)
+[![Donate to this project using Paypal](https://img.shields.io/badge/paypal-donate-blue.svg?style=plastic&logo=paypal)](https://www.paypal.me/texxasrulez)
 
 
 Forces the **Elastic** skin for requests coming from mobile devices — without changing the user's saved skin preference or your system default. This keeps small screens functional even when users have selected legacy/non-responsive skins.
