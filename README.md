@@ -1,13 +1,13 @@
 # force_elastic — Roundcube plugin
 
-[![Packagist](https://img.shields.io/packagist/dt/texxasrulez/force_elastic?style=plastic&labelColor=blue&color=gold)](https://packagist.org/packages/texxasrulez/force_elastic)
-[![Packagist Version](https://img.shields.io/packagist/v/texxasrulez/force_elastic?style=plastic&logo=packagist&logoColor=white&labelColor=blue&color=limegreen)](https://packagist.org/packages/texxasrulez/force_elastic)
-[![Project license](https://img.shields.io/github/license/texxasrulez/force_elastic?style=plastic&labelColor=blue&color=coral)](https://github.com/texxasrulez/force_elastic/LICENSE)
-[![GitHub stars](https://img.shields.io/github/stars/texxasrulez/force_elastic?style=plastic&logo=github&labelColor=blue&color=deepskyblue)](https://github.com/texxasrulez/force_elastic/stargazers)
-[![issues](https://img.shields.io/github/issues/texxasrulez/force_elastic?style=plastic&labelColor=blue&color=aqua)](https://github.com/texxasrulez/force_elastic/issues)
-[![GitHub contributors](https://img.shields.io/github/contributors/texxasrulez/force_elastic?style=plastic&logo=github&logoColor=white&labelColor=blue&color=orchid)](https://github.com/texxasrulez/force_elastic/graphs/contributors)
-[![GitHub forks](https://img.shields.io/github/forks/texxasrulez/force_elastic?style=plastic&logo=github&logoColor=white&labelColor=blue&color=darkorange)](https://github.com/texxasrulez/force_elastic/forks)
-[![Donate to this project using Paypal](https://img.shields.io/badge/paypal-money_please-blue.svg?style=plastic&labelColor=blue&color=forestgreen&logo=paypal)](https://www.paypal.me/texxasrulez)
+[![Packagist Downloads](https://img.shields.io/packagist/dt/texxasrulez/force_elastic?style=plastic&logo=packagist&logoColor=white&label=Downloads&labelColor=blue&color=gold)](https://packagist.org/packages/texxasrulez/force_elastic)
+[![Packagist Version](https://img.shields.io/packagist/v/texxasrulez/force_elastic?style=plastic&logo=packagist&logoColor=white&label=Version&labelColor=blue&color=limegreen)](https://packagist.org/packages/texxasrulez/force_elastic)
+[![Github License](https://img.shields.io/github/license/texxasrulez/force_elastic?style=plastic&logo=github&label=License&labelColor=blue&color=coral)](https://github.com/texxasrulez/force_elastic/LICENSE)
+[![GitHub Stars](https://img.shields.io/github/stars/texxasrulez/force_elastic?style=plastic&logo=github&label=Stars&labelColor=blue&color=deepskyblue)](https://github.com/texxasrulez/force_elastic/stargazers)
+[![GitHub Issues](https://img.shields.io/github/issues/texxasrulez/force_elastic?style=plastic&logo=github&label=Issues&labelColor=blue&color=aqua)](https://github.com/texxasrulez/force_elastic/issues)
+[![GitHub Contributors](https://img.shields.io/github/contributors/texxasrulez/force_elastic?style=plastic&logo=github&logoColor=white&label=Contributors&labelColor=blue&color=orchid)](https://github.com/texxasrulez/force_elastic/graphs/contributors)
+[![GitHub Forks](https://img.shields.io/github/forks/texxasrulez/force_elastic?style=plastic&logo=github&logoColor=white&label=Forks&labelColor=blue&color=darkorange)](https://github.com/texxasrulez/force_elastic/forks)
+[![Donate Paypal](https://img.shields.io/badge/Paypal-Money_Please!-blue.svg?style=plastic&labelColor=blue&color=forestgreen&logo=paypal)](https://www.paypal.me/texxasrulez)
 
 Forces the **Elastic** skin for requests coming from mobile devices — without changing the user's saved skin preference or your system default. This keeps small screens functional even when users have selected legacy/non-responsive skins.
 
